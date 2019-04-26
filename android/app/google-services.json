@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "976751341820",
+    "firebase_url": "https://nest-565fa.firebaseio.com",
+    "project_id": "nest-565fa",
+    "storage_bucket": "nest-565fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976751341820:android:a77893bc83f8895d",
+        "android_client_info": {
+          "package_name": "first.nest.recon.nestz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_H4fjAKBnW6JggSBWay4h3gVwWT5e6rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976751341820-oggan80bqs55mp7j7o2tkf0sag33o7qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
